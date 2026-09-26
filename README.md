@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`44300f7`](https://github.com/mnalwafi/money-tracker/commit/44300f780fc1df332a4e67e97ba0b766006c0841) |
-| **Commit Message** | feat: implement hybrid notification expense/income capture with ML classifier and deterministic extractor |
+| **Source Commit** | [`4ea346c`](https://github.com/mnalwafi/money-tracker/commit/4ea346c095d257c87912944506a2947d67f54fb8) |
+| **Commit Message** | fix: filter failed transaction notifications as NOISE and support shorthand multipliers (k, rb, jt) |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 07:49:19 UTC |
+| **Build Timestamp** | 2026-09-26 07:54:56 UTC |
 | **Unit Tests Status** | **Passed (Verification Suite: 100% passed)** |
 | **Build Status** | **Delegated to GitHub Actions CI** |
 

@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`7a31bd5`](https://github.com/mnalwafi/money-tracker/commit/7a31bd50a287f1c0ae5f1063704462947855e1c1) |
-| **Commit Message** | feat(ui): unify sheet backgrounds, design tokens, currency auto-format, and gesture physics |
+| **Source Commit** | [`b66ea1e`](https://github.com/mnalwafi/money-tracker/commit/b66ea1ef3b56b9d2f5867de3663a6a5b425272bf) |
+| **Commit Message** | fix(ui): unify sheet background to pure surface token and refactor ViewerHistory layout |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 15:54:37 UTC |
+| **Build Timestamp** | 2026-09-26 16:06:33 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

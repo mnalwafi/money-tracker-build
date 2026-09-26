@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`4728514`](https://github.com/mnalwafi/money-tracker/commit/4728514e4a2c91f023ea4de599be58b467b8d9e2) |
-| **Commit Message** | feat: show notifications for detected transactions when app is closed |
+| **Source Commit** | [`85708c8`](https://github.com/mnalwafi/money-tracker/commit/85708c8ee03bf64283843e3f1c3ddce699465438) |
+| **Commit Message** | feat: implement centralized dashboard screen |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 12:19:19 UTC |
+| **Build Timestamp** | 2026-09-26 12:34:04 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

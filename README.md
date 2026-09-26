@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`bb7c50a`](https://github.com/mnalwafi/money-tracker/commit/bb7c50aefa304d4abe95db6713d5c0817e7387e3) |
-| **Commit Message** | fix(dashboard): prevent drawer unresponsiveness on rapid clicks via debounce, animation guards, and robust lifecycle synchronization |
+| **Source Commit** | [`26ff2d2`](https://github.com/mnalwafi/money-tracker/commit/26ff2d2dc186bba38d014f295f5aa7d9bbe9fa89) |
+| **Commit Message** | Revert commit bb7c50aefa304d4abe95db6713d5c0817e7387e3 |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 18:06:16 UTC |
+| **Build Timestamp** | 2026-09-26 18:10:49 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

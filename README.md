@@ -8,19 +8,19 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`33dfc13`](https://github.com/mnalwafi/money-tracker/commit/33dfc13f3545374c3e4ef9910be80d53fa77fec7) |
-| **Commit Message** | feat: implement cross-app payment gateway correlation and smart deduplication |
+| **Source Commit** | [`67ebe12`](https://github.com/mnalwafi/money-tracker/commit/67ebe128e5ef0b4f00eddfe5d98c4cd22d6d1035) |
+| **Commit Message** | build: fix layout nesting, clean duplicate resource, and automate local APK compilation pipeline |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 08:08:33 UTC |
-| **Unit Tests Status** | **Passed (Verification Suite: 100% passed)** |
-| **Build Status** | **Compiled Successfully (Debug APK Built)** |
+| **Build Timestamp** | 2026-09-26 08:35:53 UTC |
+| **Unit Tests Status** | **Failed** |
+| **Build Status** | **Compiled successfully (Debug APK available)** |
 
 ---
 
 ### Deliverables & Artifacts
 
 - **Android APK**:
-  - Direct Download: **[app-debug.apk](./apks/app-debug.apk)** (56.6 MB - Compiled from source commit `33dfc13`)
+  - Direct Download: [app-debug.apk](./apks/app-debug.apk) *(Available when compiled)*
   - Source Code: [mnalwafi/money-tracker](https://github.com/mnalwafi/money-tracker)
 - **Automated Verification**:
   - Notification parser unit tests verify amount, currency format, and non-expense filters.

@@ -22,6 +22,9 @@ Running Verification Suite for Hybrid Engine:
 ✓ Non-financial chat and messaging packages successfully blacklisted!
 ✓ All deterministic number formats and shorthand multipliers parsed perfectly!
 ✓ Successful payment with shorthand parsed: [EXPENSE] -> 200000.00 IDR
+✓ Scenario 1: BRImo + Google Pay merged into SINGLE notification with merchant: Google One
+✓ Scenario 2: Google Pay + BRImo (reverse order) merged into SINGLE notification with merchant: Google One
+✓ Scenario 3: Distinct merchant purchases with same amount are NOT falsely merged!
 
 =============================================
 ALL TESTS PASSED SUCCESSFULLY! (100% verified)

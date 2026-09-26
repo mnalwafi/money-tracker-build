@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`eff1dcb`](https://github.com/mnalwafi/money-tracker/commit/eff1dcb1099481f0546b78e7e829e8ae985f6d1b) |
-| **Commit Message** | fix(ui): elevate settings child dialogs and pickers to zIndex 20f |
+| **Source Commit** | [`2a6dce8`](https://github.com/mnalwafi/money-tracker/commit/2a6dce861aebf79bca522d7f6922732033e61609) |
+| **Commit Message** | feat(design-system): implement T-shirt drawer sizing (xl, lg, default, sm, xs) and unconstrained dialog sizing |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 16:13:20 UTC |
+| **Build Timestamp** | 2026-09-26 16:32:44 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`4ea346c`](https://github.com/mnalwafi/money-tracker/commit/4ea346c095d257c87912944506a2947d67f54fb8) |
-| **Commit Message** | fix: filter failed transaction notifications as NOISE and support shorthand multipliers (k, rb, jt) |
+| **Source Commit** | [`4bbe562`](https://github.com/mnalwafi/money-tracker/commit/4bbe5629a0db51de204099805a6180bf68b72b65) |
+| **Commit Message** | fix: ignore non-financial messaging apps (WhatsApp, Telegram) and conversational chat/promo bait requests |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 07:54:56 UTC |
+| **Build Timestamp** | 2026-09-26 08:00:22 UTC |
 | **Unit Tests Status** | **Passed (Verification Suite: 100% passed)** |
 | **Build Status** | **Delegated to GitHub Actions CI** |
 

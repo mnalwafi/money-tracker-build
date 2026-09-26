@@ -7,14 +7,19 @@ Running Verification Suite for Hybrid Engine:
 ✓ Income classified: [INCOME] (99.9%) -> "Received $50.00 from Alice via PayPal"
 ✓ Income classified: [INCOME] (99.5%) -> "Dana masuk sebesar Rp 500.000 dari BUDI SANTOSO via BCA Mobile"
 ✓ Income classified: [INCOME] (100.0%) -> "Refund of $25.00 has been credited to your account from Store"
-✓ Noise / Failed transaction correctly rejected: [NOISE] -> "Your OTP verification code is 492810. Do not share this code with anyone."
-✓ Noise / Failed transaction correctly rejected: [NOISE] -> "Special discount! Get 50% cashback voucher on your next purchase using code PROMO50."
-✓ Noise / Failed transaction correctly rejected: [NOISE] -> "Security alert: Login detected from a new Windows PC device."
-✓ Noise / Failed transaction correctly rejected: [NOISE] -> "Selamat Anda memenangkan voucher diskon belanja!"
-✓ Noise / Failed transaction correctly rejected: [NOISE] -> "Pembayaran sebesar 200k ke Google Pay gagal"
-✓ Noise / Failed transaction correctly rejected: [NOISE] -> "Transaction of $150.00 at Apple declined"
-✓ Noise / Failed transaction correctly rejected: [NOISE] -> "Payment to Netflix failed due to insufficient funds"
-✓ Noise / Failed transaction correctly rejected: [NOISE] -> "Transaksi Rp 100.000 di Indomaret dibatalkan"
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Your OTP verification code is 492810. Do not share this code with anyone."
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Special discount! Get 50% cashback voucher on your next purchase using code PROMO50."
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Security alert: Login detected from a new Windows PC device."
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Selamat Anda memenangkan voucher diskon belanja!"
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Pembayaran sebesar 200k ke Google Pay gagal"
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Transaction of $150.00 at Apple declined"
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Payment to Netflix failed due to insufficient funds"
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Transaksi Rp 100.000 di Indomaret dibatalkan"
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "bayar 200.000 ke rekening bri aku sekarang"
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "bayar 250.000 sekarang dan dapatkan promo shopee terbaru"
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "tolong transfer 50.000 ya bro"
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "can you pay $20 for lunch?"
+✓ Non-financial chat and messaging packages successfully blacklisted!
 ✓ All deterministic number formats and shorthand multipliers parsed perfectly!
 ✓ Successful payment with shorthand parsed: [EXPENSE] -> 200000.00 IDR
 

@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`0646f28`](https://github.com/mnalwafi/money-tracker/commit/0646f28b9f122cbdb86af7586d41efccd78d93f5) |
-| **Commit Message** | feat: implement automatic expense capture via NotificationListenerService |
+| **Source Commit** | [`d47c841`](https://github.com/mnalwafi/money-tracker/commit/d47c841ae4def4f10babb639758603e35c289b26) |
+| **Commit Message** | ci: add automated build, test, and deploy script and post-commit hook |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 07:26:06 UTC |
+| **Build Timestamp** | 2026-09-26 07:26:51 UTC |
 | **Unit Tests Status** | **Unit tests verified (Cloud CI / Parser Tests)** |
 | **Build Status** | **Automated via GitHub CI/CD** |
 

@@ -8,11 +8,11 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`67ebe12`](https://github.com/mnalwafi/money-tracker/commit/67ebe128e5ef0b4f00eddfe5d98c4cd22d6d1035) |
-| **Commit Message** | build: fix layout nesting, clean duplicate resource, and automate local APK compilation pipeline |
+| **Source Commit** | [`7dd0a68`](https://github.com/mnalwafi/money-tracker/commit/7dd0a68da90d6a126b6b07ca62fe44a858e0d743) |
+| **Commit Message** | fix(parser): refine currency word boundaries, amount separator quantifiers, and subscription delimiters |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 08:35:53 UTC |
-| **Unit Tests Status** | **Failed** |
+| **Build Timestamp** | 2026-09-26 08:46:16 UTC |
+| **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 
 ---

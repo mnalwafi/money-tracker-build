@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`594cd71`](https://github.com/mnalwafi/money-tracker/commit/594cd713da4e92c83e2496e90448d90ed11b4000) |
-| **Commit Message** | fix: prevent leading dates from overriding attached currency amounts in QRIS transactions |
+| **Source Commit** | [`b0797d0`](https://github.com/mnalwafi/money-tracker/commit/b0797d0bf703abfb5de2fbea5162e7fba9bbe58a) |
+| **Commit Message** | feat(dashboard): refine presentation with dual-entry gestures, Material You UI, top breathing room, and header cleanup |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 14:38:18 UTC |
+| **Build Timestamp** | 2026-09-26 14:57:31 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

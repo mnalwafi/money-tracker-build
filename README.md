@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`7c11ad8`](https://github.com/mnalwafi/money-tracker/commit/7c11ad8ce723999a1120f6329f9ac21dd46ccef5) |
-| **Commit Message** | perf(editor): eliminate keyboard lag via 1:1 real-time sync, remove tween-fighting, and use BasicTextField |
+| **Source Commit** | [`a8a5745`](https://github.com/mnalwafi/money-tracker/commit/a8a5745ca950a7df1a572575bfd53758b744cae5) |
+| **Commit Message** | perf(editor): restore beloved Material 3 tag TextField and eliminate keyboard transition frame drops via measurement freezing and scope isolation |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 17:27:21 UTC |
+| **Build Timestamp** | 2026-09-26 17:43:50 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

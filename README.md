@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`b0797d0`](https://github.com/mnalwafi/money-tracker/commit/b0797d0bf703abfb5de2fbea5162e7fba9bbe58a) |
-| **Commit Message** | feat(dashboard): refine presentation with dual-entry gestures, Material You UI, top breathing room, and header cleanup |
+| **Source Commit** | [`f4138cd`](https://github.com/mnalwafi/money-tracker/commit/f4138cd2de3e374c509fe986107c48f1eaf6d3d4) |
+| **Commit Message** | fix(ui): refine dashboard colors, keyboard upward swipe, sheet hierarchy, and recurring drawer UX |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-26 14:57:31 UTC |
+| **Build Timestamp** | 2026-09-26 15:23:58 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

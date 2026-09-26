@@ -13,14 +13,14 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 | **Author** | nashih.definite <nashih@definite.co.id> |
 | **Build Timestamp** | 2026-09-26 08:08:33 UTC |
 | **Unit Tests Status** | **Passed (Verification Suite: 100% passed)** |
-| **Build Status** | **Delegated to GitHub Actions CI** |
+| **Build Status** | **Compiled Successfully (Debug APK Built)** |
 
 ---
 
 ### Deliverables & Artifacts
 
 - **Android APK**:
-  - Direct Download: [app-debug.apk](./apks/app-debug.apk) *(Available when compiled)*
+  - Direct Download: **[app-debug.apk](./apks/app-debug.apk)** (56.6 MB - Compiled from source commit `33dfc13`)
   - Source Code: [mnalwafi/money-tracker](https://github.com/mnalwafi/money-tracker)
 - **Automated Verification**:
   - Notification parser unit tests verify amount, currency format, and non-expense filters.

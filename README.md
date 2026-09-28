@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`372ef56`](https://github.com/mnalwafi/money-tracker/commit/372ef564c13f25e0a3b4007250af64cd620a813a) |
-| **Commit Message** | perf(editor): eliminate keyboard opening lag via immediate launch and snappy spring transition |
+| **Source Commit** | [`cbc86ed`](https://github.com/mnalwafi/money-tracker/commit/cbc86edc716f01a9409634997a9b0cd450ff8be8) |
+| **Commit Message** | fix(notification): blacklist stock/investment apps, sanitize percentage/period figures, and block financial market news |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-28 13:27:27 UTC |
+| **Build Timestamp** | 2026-09-28 13:48:23 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

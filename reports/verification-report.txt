@@ -7,21 +7,23 @@ Running Verification Suite for Hybrid Engine:
 ✓ Income classified: [INCOME] (99.9%) -> "Received $50.00 from Alice via PayPal"
 ✓ Income classified: [INCOME] (99.5%) -> "Dana masuk sebesar Rp 500.000 dari BUDI SANTOSO via BCA Mobile"
 ✓ Income classified: [INCOME] (100.0%) -> "Refund of $25.00 has been credited to your account from Store"
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Your OTP verification code is 492810. Do not share this code with anyone."
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Special discount! Get 50% cashback voucher on your next purchase using code PROMO50."
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Security alert: Login detected from a new Windows PC device."
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Selamat Anda memenangkan voucher diskon belanja!"
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Pembayaran sebesar 200k ke Google Pay gagal"
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Transaction of $150.00 at Apple declined"
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Payment to Netflix failed due to insufficient funds"
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "Transaksi Rp 100.000 di Indomaret dibatalkan"
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "bayar 200.000 ke rekening bri aku sekarang"
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "bayar 250.000 sekarang dan dapatkan promo shopee terbaru"
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "tolong transfer 50.000 ya bro"
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "can you pay $20 for lunch?"
-✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "100RB Koin Siap Diklaim!🎁 Koin 100RB dan hadiah lainnya bisa diklaim dengan transaksi di App Store & Google Play! Cek 👉"
-✓ Non-financial chat and messaging packages successfully blacklisted!
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "Your OTP verification code is 492810. Do not share this code with anyone."
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "Special discount! Get 50% cashback voucher on your next purchase using code PROMO50."
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "Security alert: Login detected from a new Windows PC device."
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "Selamat Anda memenangkan voucher diskon belanja!"
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "Pembayaran sebesar 200k ke Google Pay gagal"
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "Transaction of $150.00 at Apple declined"
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "Payment to Netflix failed due to insufficient funds"
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "Transaksi Rp 100.000 di Indomaret dibatalkan"
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "bayar 200.000 ke rekening bri aku sekarang"
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "bayar 250.000 sekarang dan dapatkan promo shopee terbaru"
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "tolong transfer 50.000 ya bro"
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "can you pay $20 for lunch?"
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "100RB Koin Siap Diklaim!🎁 Koin 100RB dan hadiah lainnya bisa diklaim dengan transaksi di App Store & Google Play! Cek 👉"
+✓ Noise / Chat / Promo / Stock update correctly rejected: [NOISE] -> "🏦BBRI: Laba Bersih Bank Only 8M26 Tumbuh +7% YoY; Time Deposits Naik Signif... IHSG turun -1,51%, BYAN: Nilai Transaksi Saham ke Entitas Haji Isam Belum Diketahui."
+✓ Non-financial chat and stock/investment packages successfully blacklisted!
 ✓ BRImo and Indonesian banking packages successfully whitelisted in KNOWN_FINANCE_PACKAGES!
+✓ Stock notification percentages and reporting periods correctly stripped without extracting bogus amount!
 ✓ All deterministic number formats and shorthand multipliers parsed perfectly, non-monetary coins ignored!
 ✓ Successful payment with shorthand parsed: [EXPENSE] -> 200000.00 IDR
 ✓ QRIS notification with leading date correctly parsed as: 13000.00 IDR (NOT 26!)

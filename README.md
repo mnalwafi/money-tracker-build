@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`fcd9e98`](https://github.com/mnalwafi/money-tracker/commit/fcd9e9898c79dac5e07c1ec1d3755a64c0ca62ad) |
-| **Commit Message** | fix(notification): reject Shopee promotional coin/rewards notifications and ignore non-monetary points |
+| **Source Commit** | [`4d8c830`](https://github.com/mnalwafi/money-tracker/commit/4d8c83099615ddbd9dc326e2ed30ccb9094d9bec) |
+| **Commit Message** | fix(tag): prevent dropdown collapse during filtering and dismiss on outside tap |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-28 09:22:30 UTC |
+| **Build Timestamp** | 2026-09-28 11:11:53 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

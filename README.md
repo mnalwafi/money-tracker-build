@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`cbc86ed`](https://github.com/mnalwafi/money-tracker/commit/cbc86edc716f01a9409634997a9b0cd450ff8be8) |
-| **Commit Message** | fix(notification): blacklist stock/investment apps, sanitize percentage/period figures, and block financial market news |
+| **Source Commit** | [`58bcc67`](https://github.com/mnalwafi/money-tracker/commit/58bcc67b0a29cbf9b743cc94591fff95a86cb2b4) |
+| **Commit Message** | fix(notification): dismiss status bar notifications on in-app confirmation, prevent double logging, and fix background listener wake lock & lifecycle |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-28 13:48:23 UTC |
+| **Build Timestamp** | 2026-09-28 14:06:23 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

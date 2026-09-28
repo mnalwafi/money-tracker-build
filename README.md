@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`f37bcb8`](https://github.com/mnalwafi/money-tracker/commit/f37bcb83e8de7e08e659e7860d1356f45c0a5151) |
-| **Commit Message** | fix(notification): support BRImo QRIS expense parsing and whitelist Indonesian banking packages |
+| **Source Commit** | [`fcd9e98`](https://github.com/mnalwafi/money-tracker/commit/fcd9e9898c79dac5e07c1ec1d3755a64c0ca62ad) |
+| **Commit Message** | fix(notification): reject Shopee promotional coin/rewards notifications and ignore non-monetary points |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-28 03:06:18 UTC |
+| **Build Timestamp** | 2026-09-28 09:22:30 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

@@ -19,9 +19,10 @@ Running Verification Suite for Hybrid Engine:
 ✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "bayar 250.000 sekarang dan dapatkan promo shopee terbaru"
 ✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "tolong transfer 50.000 ya bro"
 ✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "can you pay $20 for lunch?"
+✓ Noise / Chat / Promo bait correctly rejected: [NOISE] -> "100RB Koin Siap Diklaim!🎁 Koin 100RB dan hadiah lainnya bisa diklaim dengan transaksi di App Store & Google Play! Cek 👉"
 ✓ Non-financial chat and messaging packages successfully blacklisted!
 ✓ BRImo and Indonesian banking packages successfully whitelisted in KNOWN_FINANCE_PACKAGES!
-✓ All deterministic number formats and shorthand multipliers parsed perfectly!
+✓ All deterministic number formats and shorthand multipliers parsed perfectly, non-monetary coins ignored!
 ✓ Successful payment with shorthand parsed: [EXPENSE] -> 200000.00 IDR
 ✓ QRIS notification with leading date correctly parsed as: 13000.00 IDR (NOT 26!)
 ✓ BRImo QRIS notification correctly parsed as: [EXPENSE] 100.0% -> 8000.00 IDR

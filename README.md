@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`617daea`](https://github.com/mnalwafi/money-tracker/commit/617daea59ac0a5ee48212fc442809795bca03738) |
-| **Commit Message** | fix(drawer): prevent sheet stuck state on rapid double click and fast reopen |
+| **Source Commit** | [`aa3aab5`](https://github.com/mnalwafi/money-tracker/commit/aa3aab5ca4531969da8f09903a993a5e8455b880) |
+| **Commit Message** | fix(drawer): cleanly dismiss sheet on outside tap and drag down without unwanted reopen |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-29 03:10:06 UTC |
+| **Build Timestamp** | 2026-09-29 03:40:46 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

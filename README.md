@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`58bcc67`](https://github.com/mnalwafi/money-tracker/commit/58bcc67b0a29cbf9b743cc94591fff95a86cb2b4) |
-| **Commit Message** | fix(notification): dismiss status bar notifications on in-app confirmation, prevent double logging, and fix background listener wake lock & lifecycle |
+| **Source Commit** | [`5a3417d`](https://github.com/mnalwafi/money-tracker/commit/5a3417dcc0ac9506d7c5c5f5ab5bf47012b165db) |
+| **Commit Message** | perf(tag): open keyboard first before adjusting editor height for smooth, grounded transition |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-28 14:06:23 UTC |
+| **Build Timestamp** | 2026-09-29 01:29:04 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

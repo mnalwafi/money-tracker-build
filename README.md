@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`a21662b`](https://github.com/mnalwafi/money-tracker/commit/a21662bf9249c1bd189f029218f49372e2905c82) |
-| **Commit Message** | fix(classifier): correctly classify outgoing bank transfers with destination account as expense |
+| **Source Commit** | [`362b263`](https://github.com/mnalwafi/money-tracker/commit/362b26388cbb190f142939b99fabc0fb4724257e) |
+| **Commit Message** | fix(listener): allow SMS messaging apps for bank transaction notifications |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-29 10:11:15 UTC |
+| **Build Timestamp** | 2026-09-29 10:16:31 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

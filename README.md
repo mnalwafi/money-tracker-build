@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`7c98a90`](https://github.com/mnalwafi/money-tracker/commit/7c98a90592cfdb498173230eba0c074bd50b8500) |
-| **Commit Message** | fix(history,tag): align tag dropdown with design system and fix history swipe hit testing |
+| **Source Commit** | [`d795199`](https://github.com/mnalwafi/money-tracker/commit/d7951994c4d5f7005027b9036cb3b10691a0c7a7) |
+| **Commit Message** | fix(ui,dashboard,notification): remove starting budget in history drawer, fix quick add, use logo icon in notification, and eliminate slop cards |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-29 01:45:48 UTC |
+| **Build Timestamp** | 2026-09-29 02:06:14 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

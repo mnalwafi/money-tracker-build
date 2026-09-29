@@ -29,6 +29,7 @@ Running Verification Suite for Hybrid Engine:
 ✓ QRIS notification with leading date correctly parsed as: 13000.00 IDR (NOT 26!)
 ✓ BRImo QRIS notification correctly parsed as: [EXPENSE] 100.0% -> 8000.00 IDR
 ✓ Sobat BRI notification correctly parsed as: [INCOME] 99.5% -> 12000000.00 IDR
+✓ BRI Outgoing Transfer notification correctly parsed as: [EXPENSE] 100.0% -> 5000000.00 IDR
 ✓ Scenario 1: BRImo + Google Pay merged into SINGLE notification with merchant: Google One
 ✓ Scenario 2: Google Pay + BRImo (reverse order) merged into SINGLE notification with merchant: Google One
 ✓ Scenario 3: Distinct merchant purchases with same amount are NOT falsely merged!

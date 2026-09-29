@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`8be8eed`](https://github.com/mnalwafi/money-tracker/commit/8be8eedc94f4b934545e01b55681db305390b5c4) |
-| **Commit Message** | fix(drawer): block background toolbar taps immediately and debounce rapid double-click dismissals |
+| **Source Commit** | [`a21662b`](https://github.com/mnalwafi/money-tracker/commit/a21662bf9249c1bd189f029218f49372e2905c82) |
+| **Commit Message** | fix(classifier): correctly classify outgoing bank transfers with destination account as expense |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-29 03:58:37 UTC |
+| **Build Timestamp** | 2026-09-29 10:11:15 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 

@@ -8,10 +8,10 @@ Automated build output and test verification repository for **[Money Tracker (Bu
 
 | Parameter | Details |
 | :--- | :--- |
-| **Source Commit** | [`f0ad25c`](https://github.com/mnalwafi/money-tracker/commit/f0ad25c4ba57fc99bac32270bc64236d69fb5763) |
-| **Commit Message** | fix(history,dashboard): dynamically match transaction background color in history drawer and restore upcoming bills section on dashboard |
+| **Source Commit** | [`617daea`](https://github.com/mnalwafi/money-tracker/commit/617daea59ac0a5ee48212fc442809795bca03738) |
+| **Commit Message** | fix(drawer): prevent sheet stuck state on rapid double click and fast reopen |
 | **Author** | nashih.definite <nashih@definite.co.id> |
-| **Build Timestamp** | 2026-09-29 02:29:25 UTC |
+| **Build Timestamp** | 2026-09-29 03:10:06 UTC |
 | **Unit Tests Status** | **Passed (All local unit tests + verification passed)** |
 | **Build Status** | **Compiled successfully (Debug APK available)** |
 
